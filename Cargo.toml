@@ -1,0 +1,7 @@
+[package]
+name = "statikk-static"
+version = "0.1.0"
+authors = ["7wf <7ywolf@gmail.com>"]
+edition = "2018"
+
+[dependencies]
