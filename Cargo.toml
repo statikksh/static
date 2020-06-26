@@ -5,3 +5,5 @@ authors = ["7wf <7ywolf@gmail.com>"]
 edition = "2018"
 
 [dependencies]
+tokio = { version = "0.2", features = ["macros"] }
+warp = "0.2"
